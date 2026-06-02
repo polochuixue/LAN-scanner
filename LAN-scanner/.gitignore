@@ -19,9 +19,6 @@ env/
 *.swp
 *.swo
 
-# OUI大文件（用户自行下载）
-data/oui.txt
-data/oui_ieee.py
 
 # 扫描结果输出
 *.csv
