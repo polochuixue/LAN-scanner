@@ -209,7 +209,7 @@ LAN-scanner/
 └── README.md               # 项目说明文档
 ```
 
-![image](image\image.png)
+![输入图片说明](image/image.png)
 
 #### 1. 主机存活探测 (modules/discovery.py)
 
